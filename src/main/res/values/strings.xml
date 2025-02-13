@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyProj</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="about">About us</string>
+</resources>
